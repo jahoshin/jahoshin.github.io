@@ -1,2 +1,0 @@
-# jahoshin.github.io
-
