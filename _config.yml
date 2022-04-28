@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: DoowonLab Program Guide
-subtitle: "ºñ°ø½ÄÀûÀÎ ÇÁ·Î±×·¥ °¡ÀÌµå"
+subtitle: "ë¹„ê³µì‹ì ì¸ í”„ë¡œê·¸ë¨ ê°€ì´ë“œ"
 email: jhshin@doowoninc.com
 name: jaho Shin
 description: >
-  ºñ°ø½ÄÀûÀÎ ÇÁ·Î±×·¥ °¡ÀÌµå.
+  ë¹„ê³µì‹ì ì¸ í”„ë¡œê·¸ë¨ ê°€ì´ë“œ.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -196,3 +196,5 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+
+theme: jekyll-theme-modernist
